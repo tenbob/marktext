@@ -166,7 +166,10 @@ Names and company logos of all sponsors (from both Patreon and Open Collective) 
 
 ## Features
 
-- Realtime preview (WYSIWYG) and a clean and simple interface to get a distraction-free writing experience.
+- Realtime preview (WYSIWYG) 
+- Clean and simple interface to get a distraction-free writing experience.
+- Use a single pane to edit, preview and read your documents with full formatting displayed immediately
+- Markdown codes are hidden - to reveal, simply place the cursor at the appropriate point in the text 
 - Support [CommonMark Spec](https://spec.commonmark.org/0.29/), [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) and selective support [Pandoc markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 - Markdown extensions such as math expressions (KaTeX), front matter and emojis.
 - Support paragraphs and inline style shortcuts to improve your writing efficiency.
